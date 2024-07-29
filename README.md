@@ -15,17 +15,14 @@ Our objective is to utilize the provided models—KNN, Random Forest, Decision T
 We anticipate that the primary stakeholder will be the Marketing & Sales Department. This department is responsible for maximizing revenue by implementing key marketing strategies targeted at customers. By leveraging these models, they can identify the right customer segments and the main factors contributing to cancellations, thereby maximizing the company's profits.
 
 ## 🎯Project Structure
+### README.md
 
-├── README.md          <- The top-level README for developers using this project.
-├── Data
-│   └── booking.csv    <- raw dataset
-│
-├── Notebooks         
-│   └── Hotel Booking Cancellation Analysis .ipynb   <- Scripts of Python models
-│
-├── Presentation       <- Project presentation
-│   │
-│   └── Slides         <- Slides
-│   └── Images         <- Exploratory and results-oriented visualizations
-│
-└── references         <- Data dictionaries, manuals, and all other explanatory materials.
+### Data
+● booking.csv
+
+### Notebooks         
+● Hotel Booking Cancellation Analysis.ipynb
+
+### Presentation
+● Slides
+● Images
