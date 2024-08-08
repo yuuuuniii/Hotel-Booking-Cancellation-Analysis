@@ -1,4 +1,5 @@
 # Hotel-Booking-Cancellation-Analysis
+Implemented KNN, Decision Tree, Boosting, and Random Forest to enhance the model performance, predicting hotel booking cancellations
 
 ## 🎯Background
 The relevance of studying booking cancellations in the hospitality industry cannot be overstated, especially as the sector evolves with increasing customer expectations and competition. Analyzing factors like car parking availability, room rates, and lead generation time is crucial because these elements significantly influence customer decisions. For instance, guests may prefer hotels with parking for convenience, and pricing sensitivity can vary widely among different customer segments, affecting their likelihood to cancel reservations.
